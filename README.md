@@ -1,6 +1,6 @@
-# E-Commerce-Sales-Dashboard-Excel-
+# E-Commerce-Sales-Dashboard-Excel
 E-Commerce Sales Dashboard is a dynamic Excel-based tool that visualizes key metrics like total sales, profit, and order aging by category and region. It helps users quickly analyze performance and trends using interactive charts and filters—all within Excel.
-# 📦 E-Commerce Sales Dashboard (Excel)
+# 📦 E-Commerce Sales Dashboard
 
 This project is a powerful **E-Commerce Sales Dashboard** built in Microsoft Excel. It offers dynamic insights into sales, profit, and order behavior across various product categories and global regions.
 
